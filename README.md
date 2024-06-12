@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning about Web Technologies<br>💬 Ask me about web projects<br>👨‍💻  I’m looking forward to collaborate with developers and work on some great projects<br>📫 How to reach me harshmassey25@outlook.com<br>👨‍💻 All of my projects are available at harsh.vercel.app
-
+🌱 I’m currently learning about Web Technologies<br>💬 Ask me about web projects<br>👨‍💻  I’m looking forward to collaborate with developers and work on some great projects<br>📫 How to reach me harshmassey25@outlook.com<br>👨‍💻 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_massey_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/harshmassey/) 
